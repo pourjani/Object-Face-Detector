@@ -45,3 +45,21 @@ You can download them and place them in the same folder as your script, or updat
 
 - Python 3.x
 - OpenCV 4.x
+
+
+---
+
+
+# 🚗 Car Detection using OpenCV 
+
+This project uses cascades to detect cars in a sample video. 
+
+
+---
+
+
+## 🎥 Demo
+
+Here's a sample usage:
+
+![DEMO](demo.gif)
