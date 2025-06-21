@@ -62,4 +62,4 @@ This project uses cascades to detect cars in a sample video.
 
 Here's a sample usage:
 
-![DEMO](demo.gif)
+![DEMO]('demo.gif')
