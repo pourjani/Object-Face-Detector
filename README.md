@@ -48,6 +48,36 @@ You can download them and place them in the same folder as your script, or updat
 
 
 ---
+# Real_time_Face_detection_DNN
+
+## 📌 Project Overview
+
+**Real_time_Face_detection_DNN** is a Python application that performs real-time face detection using OpenCV’s Deep Neural Network (DNN) module. It uses a pre-trained deep learning model to detect faces from webcam or video input efficiently and accurately.
+
+## 🚀 Features
+
+- Real-time face detection from webcam or video files
+- Pre-trained SSD + ResNet-10 model
+- High detection accuracy with fast performance
+- Displays bounding boxes with confidence scores
+
+## 🧠 Model Details
+
+- **Model**: `res10_300x300_ssd_iter_140000.caffemodel`
+- **Config**: `deploy.prototxt.txt`
+- **Framework**: Caffe
+- **Architecture**: SSD (Single Shot Multibox Detector) with ResNet-10 backbone
+
+## 🎥 Demo
+
+Here's a sample usage:
+
+![DEMO](sample_realtime_face.gif)
+
+
+
+---
+
 
 
 # 🚗 Car Detection using OpenCV 
