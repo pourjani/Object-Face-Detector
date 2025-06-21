@@ -8,7 +8,7 @@ This project uses OpenCV's Deep Neural Network (DNN) module to perform face dete
 
 - `face_detection.py` – Python script that loads a pre-trained model, detects faces, and saves the output.
 - `faces.jpg` – Sample input image for face detection.
-- `output.jpg` – Output image with detected face(s) and labels.
+- `output.png` – Output image with detected face(s) and labels.
 
 ---
 
@@ -16,7 +16,7 @@ This project uses OpenCV's Deep Neural Network (DNN) module to perform face dete
 
 
 
-![OUTPUT](output.jpg)
+![OUTPUT](output.png)
 
 ## 📥 Required Files
 
