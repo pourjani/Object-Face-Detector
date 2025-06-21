@@ -12,6 +12,12 @@ This project uses OpenCV's Deep Neural Network (DNN) module to perform face dete
 
 ---
 
+## 🖼️ Example Output
+
+
+
+![Output Static Image](faces.png)
+
 ## 📥 Required Files
 
 Before running the code, make sure you have the following model files:
